@@ -15,7 +15,7 @@ if __name__ == '__main__':
     ground2 = pygame.image.load('graphic/ground/2.png')
     ground3 = pygame.image.load('graphic/ground/3.png')
 
-    text_surface = game_font.render("New game", False,'Red')
+    text_surface = game_font.render("New game", False,'Yellow')
 
     #test_surface = pygame.Surface((500,500))
     #test_surface.fill('red')
